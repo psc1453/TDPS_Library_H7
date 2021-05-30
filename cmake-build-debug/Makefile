@@ -277,6 +277,33 @@ Core/Src/system_stm32h7xx.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/system_stm32h7xx.c.s
 .PHONY : Core/Src/system_stm32h7xx.c.s
 
+Core/Src/uart_putc.obj: Core/Src/uart_putc.c.obj
+
+.PHONY : Core/Src/uart_putc.obj
+
+# target to build an object file
+Core/Src/uart_putc.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/uart_putc.c.obj
+.PHONY : Core/Src/uart_putc.c.obj
+
+Core/Src/uart_putc.i: Core/Src/uart_putc.c.i
+
+.PHONY : Core/Src/uart_putc.i
+
+# target to preprocess a source file
+Core/Src/uart_putc.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/uart_putc.c.i
+.PHONY : Core/Src/uart_putc.c.i
+
+Core/Src/uart_putc.s: Core/Src/uart_putc.c.s
+
+.PHONY : Core/Src/uart_putc.s
+
+# target to generate assembly for a file
+Core/Src/uart_putc.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/uart_putc.c.s
+.PHONY : Core/Src/uart_putc.c.s
+
 Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.obj: Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
 
 .PHONY : Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.obj
@@ -850,6 +877,9 @@ help:
 	@echo "... Core/Src/system_stm32h7xx.obj"
 	@echo "... Core/Src/system_stm32h7xx.i"
 	@echo "... Core/Src/system_stm32h7xx.s"
+	@echo "... Core/Src/uart_putc.obj"
+	@echo "... Core/Src/uart_putc.i"
+	@echo "... Core/Src/uart_putc.s"
 	@echo "... Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.obj"
 	@echo "... Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.i"
 	@echo "... Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.s"

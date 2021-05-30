@@ -29,6 +29,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/stm32h7xx_it.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/stm32h7xx_it.c.obj"
   "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/syscalls.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/syscalls.c.obj"
   "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/system_stm32h7xx.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/system_stm32h7xx.c.obj"
+  "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/uart_putc.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/uart_putc.c.obj"
   "/Users/psc/CLionProjects/TDPS_Library_H7/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj"
   "/Users/psc/CLionProjects/TDPS_Library_H7/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj"
   "/Users/psc/CLionProjects/TDPS_Library_H7/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_dma.c.obj"

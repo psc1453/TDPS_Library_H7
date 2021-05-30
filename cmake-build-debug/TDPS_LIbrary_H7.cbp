@@ -118,6 +118,9 @@
 		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/system_stm32h7xx.c">
 			<Option target="TDPS_LIbrary_H7.elf"/>
 		</Unit>
+		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/uart_putc.c">
+			<Option target="TDPS_LIbrary_H7.elf"/>
+		</Unit>
 		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h743xx.h">
 			<Option target="TDPS_LIbrary_H7.elf"/>
 		</Unit>
