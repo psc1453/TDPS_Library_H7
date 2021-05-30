@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/DS1302.c.obj"
   "CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/TCS34725.c.obj"
   "CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/delay.c.obj"
   "CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/main.c.obj"

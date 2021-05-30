@@ -66,6 +66,12 @@ void Error_Handler(void);
 #define COLOR_SCL_GPIO_Port GPIOB
 #define COLOR_SDA_Pin GPIO_PIN_7
 #define COLOR_SDA_GPIO_Port GPIOB
+#define CLOCK_CE_Pin GPIO_PIN_9
+#define CLOCK_CE_GPIO_Port GPIOB
+#define CLOCK_SDA_Pin GPIO_PIN_0
+#define CLOCK_SDA_GPIO_Port GPIOE
+#define CLOCK_SCL_Pin GPIO_PIN_1
+#define CLOCK_SCL_GPIO_Port GPIOE
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
