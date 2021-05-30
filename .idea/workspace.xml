@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="TDPS_LIbrary_H7" targetName="TDPS_LIbrary_H7.elf" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba1d43de-ec38-4824-a42b-f5599e1e88c0" name="Default Changelist" comment="" />
+    <list default="true" id="ba1d43de-ec38-4824-a42b-f5599e1e88c0" name="Default Changelist" comment="Project file generated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,12 +41,12 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager" selected="OpenOCD Download &amp; Run.OCD TDPS_LIbrary_H7">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="TDPS_LIbrary_H7.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TDPS_LIbrary_H7" TARGET_NAME="TDPS_LIbrary_H7.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="TDPS_LIbrary_H7" RUN_TARGET_NAME="TDPS_LIbrary_H7.elf">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TDPS_LIbrary_H7.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TDPS_LIbrary_H7" TARGET_NAME="TDPS_LIbrary_H7.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="TDPS_LIbrary_H7" RUN_TARGET_NAME="TDPS_LIbrary_H7.elf">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -64,11 +69,52 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622380559958</updated>
-      <workItem from="1622380573596" duration="324000" />
+      <workItem from="1622380573596" duration="400000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="185abbc3-72ea-480f-b874-e8c8361f8ff3">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="185abbc3-72ea-480f-b874-e8c8361f8ff3" value="TOOL_WINDOW" />
+      </map>
+    </option>
   </component>
 </project>

@@ -47,6 +47,8 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/psc/CLionProjects/TDPS_Library_H7/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj"
   "/Users/psc/CLionProjects/TDPS_Library_H7/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj"
   "/Users/psc/CLionProjects/TDPS_Library_H7/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj"
+  "/Users/psc/CLionProjects/TDPS_Library_H7/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj"
+  "/Users/psc/CLionProjects/TDPS_Library_H7/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

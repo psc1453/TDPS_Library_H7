@@ -22,6 +22,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/TDPS_LIbrary_H7.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj"
   "CMakeFiles/TDPS_LIbrary_H7.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.c.obj"
   "CMakeFiles/TDPS_LIbrary_H7.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c.obj"
+  "CMakeFiles/TDPS_LIbrary_H7.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj"
+  "CMakeFiles/TDPS_LIbrary_H7.elf.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj"
   "CMakeFiles/TDPS_LIbrary_H7.elf.dir/startup/startup_stm32h743xx.s.obj"
   "TDPS_LIbrary_H7.elf"
   "TDPS_LIbrary_H7.elf.pdb"

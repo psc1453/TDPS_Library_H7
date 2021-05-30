@@ -262,6 +262,12 @@
 		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h">
 			<Option target="TDPS_LIbrary_H7.elf"/>
 		</Unit>
+		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h">
+			<Option target="TDPS_LIbrary_H7.elf"/>
+		</Unit>
+		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h">
+			<Option target="TDPS_LIbrary_H7.elf"/>
+		</Unit>
 		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c">
 			<Option target="TDPS_LIbrary_H7.elf"/>
 		</Unit>
@@ -314,6 +320,12 @@
 			<Option target="TDPS_LIbrary_H7.elf"/>
 		</Unit>
 		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.c">
+			<Option target="TDPS_LIbrary_H7.elf"/>
+		</Unit>
+		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c">
+			<Option target="TDPS_LIbrary_H7.elf"/>
+		</Unit>
+		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c">
 			<Option target="TDPS_LIbrary_H7.elf"/>
 		</Unit>
 		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/STM32H743VITx_FLASH.ld">
