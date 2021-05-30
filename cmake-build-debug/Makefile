@@ -142,6 +142,33 @@ TDPS_LIbrary_H7.elf/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/build
 .PHONY : TDPS_LIbrary_H7.elf/fast
 
+Core/Src/delay.obj: Core/Src/delay.c.obj
+
+.PHONY : Core/Src/delay.obj
+
+# target to build an object file
+Core/Src/delay.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/delay.c.obj
+.PHONY : Core/Src/delay.c.obj
+
+Core/Src/delay.i: Core/Src/delay.c.i
+
+.PHONY : Core/Src/delay.i
+
+# target to preprocess a source file
+Core/Src/delay.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/delay.c.i
+.PHONY : Core/Src/delay.c.i
+
+Core/Src/delay.s: Core/Src/delay.c.s
+
+.PHONY : Core/Src/delay.s
+
+# target to generate assembly for a file
+Core/Src/delay.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/delay.c.s
+.PHONY : Core/Src/delay.c.s
+
 Core/Src/main.obj: Core/Src/main.c.obj
 
 .PHONY : Core/Src/main.obj
@@ -889,6 +916,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... TDPS_LIbrary_H7.elf"
+	@echo "... Core/Src/delay.obj"
+	@echo "... Core/Src/delay.i"
+	@echo "... Core/Src/delay.s"
 	@echo "... Core/Src/main.obj"
 	@echo "... Core/Src/main.i"
 	@echo "... Core/Src/main.s"

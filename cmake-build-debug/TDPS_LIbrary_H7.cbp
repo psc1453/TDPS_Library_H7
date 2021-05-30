@@ -94,6 +94,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Core/Inc/delay.h">
+			<Option target="TDPS_LIbrary_H7.elf"/>
+		</Unit>
 		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Core/Inc/main.h">
 			<Option target="TDPS_LIbrary_H7.elf"/>
 		</Unit>
@@ -104,6 +107,9 @@
 			<Option target="TDPS_LIbrary_H7.elf"/>
 		</Unit>
 		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Core/Inc/sys.h">
+			<Option target="TDPS_LIbrary_H7.elf"/>
+		</Unit>
+		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/delay.c">
 			<Option target="TDPS_LIbrary_H7.elf"/>
 		</Unit>
 		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/main.c">
