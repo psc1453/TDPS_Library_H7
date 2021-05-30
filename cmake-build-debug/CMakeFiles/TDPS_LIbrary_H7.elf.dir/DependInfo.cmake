@@ -27,6 +27,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/main.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/main.c.obj"
   "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/stm32h7xx_hal_msp.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj"
   "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/stm32h7xx_it.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/stm32h7xx_it.c.obj"
+  "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/sys.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/sys.c.obj"
   "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/syscalls.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/syscalls.c.obj"
   "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/system_stm32h7xx.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/system_stm32h7xx.c.obj"
   "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/uart_putc.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/uart_putc.c.obj"

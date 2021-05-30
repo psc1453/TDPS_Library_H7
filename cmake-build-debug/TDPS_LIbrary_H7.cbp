@@ -103,6 +103,9 @@
 		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Core/Inc/stm32h7xx_it.h">
 			<Option target="TDPS_LIbrary_H7.elf"/>
 		</Unit>
+		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Core/Inc/sys.h">
+			<Option target="TDPS_LIbrary_H7.elf"/>
+		</Unit>
 		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/main.c">
 			<Option target="TDPS_LIbrary_H7.elf"/>
 		</Unit>
@@ -110,6 +113,9 @@
 			<Option target="TDPS_LIbrary_H7.elf"/>
 		</Unit>
 		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/stm32h7xx_it.c">
+			<Option target="TDPS_LIbrary_H7.elf"/>
+		</Unit>
+		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/sys.c">
 			<Option target="TDPS_LIbrary_H7.elf"/>
 		</Unit>
 		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/syscalls.c">

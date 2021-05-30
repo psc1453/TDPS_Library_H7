@@ -2,10 +2,10 @@
 // Created by 彭世辰 on 2021/5/30.
 //
 
-// Modified to target chip
+// Modify to target chip
 #include "stm32h7xx_hal.h"
 
-// Modified to target debug pins
+// Modify to target debug pins
 extern UART_HandleTypeDef hlpuart1;
 
 #ifdef __GNUC__
@@ -15,7 +15,7 @@ extern UART_HandleTypeDef hlpuart1;
 #endif
 PUTCHAR_PROTOTYPE
 {
-    HAL_UART_Transmit(&hlpuart1, (uint8_t *)&ch, 1, 50); // Modified to target debug pins
+    HAL_UART_Transmit(&hlpuart1, (uint8_t *)&ch, 1, 50); // Modify to target debug pins
 
     return ch;
 }

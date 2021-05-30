@@ -223,6 +223,33 @@ Core/Src/stm32h7xx_it.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/stm32h7xx_it.c.s
 .PHONY : Core/Src/stm32h7xx_it.c.s
 
+Core/Src/sys.obj: Core/Src/sys.c.obj
+
+.PHONY : Core/Src/sys.obj
+
+# target to build an object file
+Core/Src/sys.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/sys.c.obj
+.PHONY : Core/Src/sys.c.obj
+
+Core/Src/sys.i: Core/Src/sys.c.i
+
+.PHONY : Core/Src/sys.i
+
+# target to preprocess a source file
+Core/Src/sys.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/sys.c.i
+.PHONY : Core/Src/sys.c.i
+
+Core/Src/sys.s: Core/Src/sys.c.s
+
+.PHONY : Core/Src/sys.s
+
+# target to generate assembly for a file
+Core/Src/sys.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/sys.c.s
+.PHONY : Core/Src/sys.c.s
+
 Core/Src/syscalls.obj: Core/Src/syscalls.c.obj
 
 .PHONY : Core/Src/syscalls.obj
@@ -871,6 +898,9 @@ help:
 	@echo "... Core/Src/stm32h7xx_it.obj"
 	@echo "... Core/Src/stm32h7xx_it.i"
 	@echo "... Core/Src/stm32h7xx_it.s"
+	@echo "... Core/Src/sys.obj"
+	@echo "... Core/Src/sys.i"
+	@echo "... Core/Src/sys.s"
 	@echo "... Core/Src/syscalls.obj"
 	@echo "... Core/Src/syscalls.i"
 	@echo "... Core/Src/syscalls.s"
