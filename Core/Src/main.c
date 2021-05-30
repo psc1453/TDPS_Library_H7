@@ -23,6 +23,7 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include "TCS34725.h"
+#include "DS1302.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -46,7 +47,12 @@ I2C_HandleTypeDef hi2c1;
 UART_HandleTypeDef hlpuart1;
 
 /* USER CODE BEGIN PV */
-
+TCS34725* color_picker = &hi2c1;
+DS1302 clock = {
+        CLOCK_SCL_GPIO_Port, CLOCK_SCL_Pin,
+        CLOCK_SDA_GPIO_Port, CLOCK_SDA_Pin,
+        CLOCK_CE_GPIO_Port, CLOCK_CE_Pin
+};
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -70,7 +76,7 @@ static void MX_I2C1_Init(void);
 int main(void)
 {
   /* USER CODE BEGIN 1 */
-    TCS34725 color_picker = hi2c1;
+    TCS34725_Init(color_picker);
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/

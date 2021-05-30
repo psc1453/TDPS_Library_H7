@@ -11,7 +11,25 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba1d43de-ec38-4824-a42b-f5599e1e88c0" name="Default Changelist" comment="Add type TCS34725 as alias of I2C_HandleTypeDef" />
+    <list default="true" id="ba1d43de-ec38-4824-a42b-f5599e1e88c0" name="Default Changelist" comment="Add DS1302 clock pin definition">
+      <change afterPath="$PROJECT_DIR$/Core/Inc/DS1302.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Src/DS1302.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/TCS34725.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/TCS34725.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/TDPS_LIbrary_H7.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/TDPS_LIbrary_H7.cbp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1622380559958</updated>
       <workItem from="1622380573596" duration="400000" />
-      <workItem from="1622380977413" duration="3048000" />
+      <workItem from="1622380977413" duration="7094000" />
     </task>
     <task id="LOCAL-00001" summary="Add UART debug pins definition">
       <created>1622381225674</created>
@@ -135,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622384014233</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add DS1302 clock pin definition">
+      <created>1622384233284</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622384233284</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +250,7 @@
     <MESSAGE value="Add delay.c and delay.h to provide delay function in microsecond" />
     <MESSAGE value="Add driver for color recognition module. TCS34725.h and TCS34725.c.&#10;I2C1 is used." />
     <MESSAGE value="Add type TCS34725 as alias of I2C_HandleTypeDef" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add type TCS34725 as alias of I2C_HandleTypeDef" />
+    <MESSAGE value="Add DS1302 clock pin definition" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add DS1302 clock pin definition" />
   </component>
 </project>
