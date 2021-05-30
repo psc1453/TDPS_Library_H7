@@ -77,6 +77,8 @@
 #define max3v(v1, v2, v3)   ((v1)<(v2)? ((v2)<(v3)?(v3):(v2)):((v1)<(v3)?(v3):(v1)))
 #define min3v(v1, v2, v3)   ((v1)>(v2)? ((v2)>(v3)?(v3):(v2)):((v1)>(v3)?(v3):(v1)))
 
+typedef I2C_HandleTypeDef TCS34725
+
 typedef struct{
     uint16_t c;      //[0-65536]
     uint16_t r;

@@ -11,29 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba1d43de-ec38-4824-a42b-f5599e1e88c0" name="Default Changelist" comment="Add delay.c and delay.h to provide delay function in microsecond">
-      <change afterPath="$PROJECT_DIR$/Core/Inc/Color.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Src/Color.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mxproject" beforeDir="false" afterPath="$PROJECT_DIR$/.mxproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Inc/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/main.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core/Src/stm32h7xx_hal_msp.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/stm32h7xx_hal_msp.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TDPS_Library_H7.ioc" beforeDir="false" afterPath="$PROJECT_DIR$/TDPS_Library_H7.ioc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/TDPS_LIbrary_H7.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/TDPS_LIbrary_H7.cbp" afterDir="false" />
+    <list default="true" id="ba1d43de-ec38-4824-a42b-f5599e1e88c0" name="Default Changelist" comment="Add driver for color recognition module. TCS34725.h and TCS34725.c.&#10;I2C1 is used.">
+      <change afterPath="$PROJECT_DIR$/Core/Inc/DS1302.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core/Src/DS1302.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +28,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1tG1LybK50Ll4YP7B2SwnXrfDjF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -105,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1622380559958</updated>
       <workItem from="1622380573596" duration="400000" />
-      <workItem from="1622380977413" duration="2248000" />
+      <workItem from="1622380977413" duration="2552000" />
     </task>
     <task id="LOCAL-00001" summary="Add UART debug pins definition">
       <created>1622381225674</created>
@@ -142,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622382167899</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add driver for color recognition module. TCS34725.h and TCS34725.c.&#10;I2C1 is used.">
+      <created>1622383456990</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622383456990</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +219,7 @@
     <MESSAGE value="Retarget putc() to UART(add forgotten files)" />
     <MESSAGE value="Add sys.c and sys.h to provide types like uint8_t" />
     <MESSAGE value="Add delay.c and delay.h to provide delay function in microsecond" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add delay.c and delay.h to provide delay function in microsecond" />
+    <MESSAGE value="Add driver for color recognition module. TCS34725.h and TCS34725.c.&#10;I2C1 is used." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add driver for color recognition module. TCS34725.h and TCS34725.c.&#10;I2C1 is used." />
   </component>
 </project>

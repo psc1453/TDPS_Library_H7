@@ -142,32 +142,59 @@ TDPS_LIbrary_H7.elf/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/build
 .PHONY : TDPS_LIbrary_H7.elf/fast
 
-Core/Src/Color.obj: Core/Src/Color.c.obj
+Core/Src/DS1302.obj: Core/Src/DS1302.c.obj
 
-.PHONY : Core/Src/Color.obj
+.PHONY : Core/Src/DS1302.obj
 
 # target to build an object file
-Core/Src/Color.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/Color.c.obj
-.PHONY : Core/Src/Color.c.obj
+Core/Src/DS1302.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/DS1302.c.obj
+.PHONY : Core/Src/DS1302.c.obj
 
-Core/Src/Color.i: Core/Src/Color.c.i
+Core/Src/DS1302.i: Core/Src/DS1302.c.i
 
-.PHONY : Core/Src/Color.i
+.PHONY : Core/Src/DS1302.i
 
 # target to preprocess a source file
-Core/Src/Color.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/Color.c.i
-.PHONY : Core/Src/Color.c.i
+Core/Src/DS1302.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/DS1302.c.i
+.PHONY : Core/Src/DS1302.c.i
 
-Core/Src/Color.s: Core/Src/Color.c.s
+Core/Src/DS1302.s: Core/Src/DS1302.c.s
 
-.PHONY : Core/Src/Color.s
+.PHONY : Core/Src/DS1302.s
 
 # target to generate assembly for a file
-Core/Src/Color.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/Color.c.s
-.PHONY : Core/Src/Color.c.s
+Core/Src/DS1302.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/DS1302.c.s
+.PHONY : Core/Src/DS1302.c.s
+
+Core/Src/TCS34725.obj: Core/Src/TCS34725.c.obj
+
+.PHONY : Core/Src/TCS34725.obj
+
+# target to build an object file
+Core/Src/TCS34725.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/TCS34725.c.obj
+.PHONY : Core/Src/TCS34725.c.obj
+
+Core/Src/TCS34725.i: Core/Src/TCS34725.c.i
+
+.PHONY : Core/Src/TCS34725.i
+
+# target to preprocess a source file
+Core/Src/TCS34725.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/TCS34725.c.i
+.PHONY : Core/Src/TCS34725.c.i
+
+Core/Src/TCS34725.s: Core/Src/TCS34725.c.s
+
+.PHONY : Core/Src/TCS34725.s
+
+# target to generate assembly for a file
+Core/Src/TCS34725.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TDPS_LIbrary_H7.elf.dir/build.make CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/TCS34725.c.s
+.PHONY : Core/Src/TCS34725.c.s
 
 Core/Src/delay.obj: Core/Src/delay.c.obj
 
@@ -943,9 +970,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... TDPS_LIbrary_H7.elf"
-	@echo "... Core/Src/Color.obj"
-	@echo "... Core/Src/Color.i"
-	@echo "... Core/Src/Color.s"
+	@echo "... Core/Src/DS1302.obj"
+	@echo "... Core/Src/DS1302.i"
+	@echo "... Core/Src/DS1302.s"
+	@echo "... Core/Src/TCS34725.obj"
+	@echo "... Core/Src/TCS34725.i"
+	@echo "... Core/Src/TCS34725.s"
 	@echo "... Core/Src/delay.obj"
 	@echo "... Core/Src/delay.i"
 	@echo "... Core/Src/delay.s"
