@@ -24,6 +24,7 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   "../Drivers/CMSIS/Include"
   )
 set(CMAKE_DEPENDS_CHECK_C
+  "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/Color.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/Color.c.obj"
   "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/delay.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/delay.c.obj"
   "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/main.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/main.c.obj"
   "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/stm32h7xx_hal_msp.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj"
