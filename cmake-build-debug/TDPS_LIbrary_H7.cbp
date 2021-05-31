@@ -97,6 +97,9 @@
 		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Core/Inc/DS1302.h">
 			<Option target="TDPS_LIbrary_H7.elf"/>
 		</Unit>
+		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Core/Inc/HCSR04.h">
+			<Option target="TDPS_LIbrary_H7.elf"/>
+		</Unit>
 		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Core/Inc/TCS34725.h">
 			<Option target="TDPS_LIbrary_H7.elf"/>
 		</Unit>
@@ -116,6 +119,9 @@
 			<Option target="TDPS_LIbrary_H7.elf"/>
 		</Unit>
 		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/DS1302.c">
+			<Option target="TDPS_LIbrary_H7.elf"/>
+		</Unit>
+		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/HCSR04.c">
 			<Option target="TDPS_LIbrary_H7.elf"/>
 		</Unit>
 		<Unit filename="/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/TCS34725.c">

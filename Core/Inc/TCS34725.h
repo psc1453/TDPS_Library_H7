@@ -106,8 +106,6 @@ typedef struct{
 } COLOR_CMYK;//CMYK
 
 u8 TCS34725_Init(I2C_HandleTypeDef* hi2c);
-void TCS34725_Read(I2C_HandleTypeDef* hi2c, u8 subAddr, u8* dataBuffer, u8 bytesNumber);
-void TCS34725_Write(I2C_HandleTypeDef* hi2c, u8 subAddr, u8* dataBuffer, u8 bytesNumber);
 void TCS34725_SetGain(I2C_HandleTypeDef* hi2c, u8 gain);
 void TCS34725_SetIntegrationTime(I2C_HandleTypeDef* hi2c, u8 time);
 

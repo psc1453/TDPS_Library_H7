@@ -25,6 +25,7 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   )
 set(CMAKE_DEPENDS_CHECK_C
   "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/DS1302.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/DS1302.c.obj"
+  "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/HCSR04.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj"
   "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/TCS34725.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/TCS34725.c.obj"
   "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/delay.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/delay.c.obj"
   "/Users/psc/CLionProjects/TDPS_Library_H7/Core/Src/main.c" "/Users/psc/CLionProjects/TDPS_Library_H7/cmake-build-debug/CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/main.c.obj"

@@ -10,7 +10,7 @@
 #include "stm32h7xx_hal.h"
 
 // Modify to system clock (MHz)
-#define SystemCoreClockMHz 480
+#define SystemCoreClockMHz 64
 #define SystemCoreClock (SystemCoreClockMHz*1000)
 
 void delay_us(uint32_t udelay);

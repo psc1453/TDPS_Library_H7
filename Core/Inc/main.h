@@ -62,6 +62,10 @@ void Error_Handler(void);
 #define DEBUG_TX_GPIO_Port GPIOA
 #define DEBUG_RX_Pin GPIO_PIN_10
 #define DEBUG_RX_GPIO_Port GPIOA
+#define SS_ECHO_Pin GPIO_PIN_11
+#define SS_ECHO_GPIO_Port GPIOA
+#define SS_TRIG_Pin GPIO_PIN_12
+#define SS_TRIG_GPIO_Port GPIOA
 #define COLOR_SCL_Pin GPIO_PIN_6
 #define COLOR_SCL_GPIO_Port GPIOB
 #define COLOR_SDA_Pin GPIO_PIN_7

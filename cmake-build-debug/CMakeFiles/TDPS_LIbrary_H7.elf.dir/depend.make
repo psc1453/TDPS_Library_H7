@@ -43,6 +43,48 @@ CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/DS1302.c.obj: ../Drivers/STM32H7xx_H
 CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/DS1302.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/DS1302.c.obj: ../Core/Src/DS1302.c
 
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Core/Inc/HCSR04.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Core/Inc/delay.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Core/Inc/main.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Core/Inc/stm32h7xx_hal_conf.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Core/Inc/sys.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h743xx.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h7xx.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/system_stm32h7xx.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/CMSIS/Include/cmsis_armcc.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/CMSIS/Include/cmsis_armclang.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/CMSIS/Include/cmsis_armclang_ltm.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/CMSIS/Include/cmsis_compiler.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/CMSIS/Include/cmsis_gcc.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/CMSIS/Include/cmsis_iccarm.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/CMSIS/Include/cmsis_version.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/CMSIS/Include/core_cm7.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/CMSIS/Include/mpu_armv7.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_cortex.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_def.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_dma.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_dma_ex.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_exti.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_flash.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_flash_ex.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_gpio_ex.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_hsem.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_i2c.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_i2c_ex.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_mdma.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pwr_ex.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc_ex.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/HCSR04.c.obj: ../Core/Src/HCSR04.c
+
 CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/TCS34725.c.obj: ../Core/Inc/TCS34725.h
 CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/TCS34725.c.obj: ../Core/Inc/delay.h
 CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/TCS34725.c.obj: ../Core/Inc/stm32h7xx_hal_conf.h
@@ -125,6 +167,7 @@ CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/delay.c.obj: ../Drivers/STM32H7xx_HA
 CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/delay.c.obj: ../Core/Src/delay.c
 
 CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/main.c.obj: ../Core/Inc/DS1302.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/main.c.obj: ../Core/Inc/HCSR04.h
 CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/main.c.obj: ../Core/Inc/TCS34725.h
 CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/main.c.obj: ../Core/Inc/delay.h
 CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/main.c.obj: ../Core/Inc/main.h
@@ -206,9 +249,12 @@ CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj: ../Drivers/
 CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj: ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h
 CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/stm32h7xx_hal_msp.c.obj: ../Core/Src/stm32h7xx_hal_msp.c
 
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/stm32h7xx_it.c.obj: ../Core/Inc/HCSR04.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/stm32h7xx_it.c.obj: ../Core/Inc/delay.h
 CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/stm32h7xx_it.c.obj: ../Core/Inc/main.h
 CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/stm32h7xx_it.c.obj: ../Core/Inc/stm32h7xx_hal_conf.h
 CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/stm32h7xx_it.c.obj: ../Core/Inc/stm32h7xx_it.h
+CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/stm32h7xx_it.c.obj: ../Core/Inc/sys.h
 CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/stm32h7xx_it.c.obj: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h743xx.h
 CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/stm32h7xx_it.c.obj: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h7xx.h
 CMakeFiles/TDPS_LIbrary_H7.elf.dir/Core/Src/stm32h7xx_it.c.obj: ../Drivers/CMSIS/Device/ST/STM32H7xx/Include/system_stm32h7xx.h
